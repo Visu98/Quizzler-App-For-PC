@@ -38,6 +38,7 @@ NOTE: 💀💀 You can custumize quiz type by https://opentdb.com/api_config.php
       MAKE SURE IT IS SET IN CORRECT WAY, OTHERWISE YOUR APP WILL CRASH. 💀💀
       
       
+      
 Thanks & Enjoy 😁😊(❁´◡`❁)
 
 
